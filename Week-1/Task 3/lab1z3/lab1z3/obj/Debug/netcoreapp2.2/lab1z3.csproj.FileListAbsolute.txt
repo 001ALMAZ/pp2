@@ -1,0 +1,10 @@
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\bin\Debug\netcoreapp2.2\lab1z3.deps.json
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\bin\Debug\netcoreapp2.2\lab1z3.runtimeconfig.json
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\bin\Debug\netcoreapp2.2\lab1z3.runtimeconfig.dev.json
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\bin\Debug\netcoreapp2.2\lab1z3.dll
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\bin\Debug\netcoreapp2.2\lab1z3.pdb
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\obj\Debug\netcoreapp2.2\lab1z3.csproj.CoreCompileInputs.cache
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\obj\Debug\netcoreapp2.2\lab1z3.AssemblyInfoInputs.cache
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\obj\Debug\netcoreapp2.2\lab1z3.AssemblyInfo.cs
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\obj\Debug\netcoreapp2.2\lab1z3.dll
+C:\PP2\Week 1\Task 3\lab1z3\lab1z3\obj\Debug\netcoreapp2.2\lab1z3.pdb
