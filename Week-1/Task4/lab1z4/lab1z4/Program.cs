@@ -11,11 +11,13 @@ namespace lab1z4
     {
         static void Main(string[] args)
         {
-            int N = int.Parse(Console.ReadLine());
-            for (int i = 1; i <= N; i++)
+            int N = int.Parse(Console.ReadLine());//создаем интеджер и вваодим числа 
+            for (int i = 1; i <= N; i++) // пробек по вертикаль
             {
-                for (int j = 1; j <= i; j++)
-                    Console.Write("[*]");
+                for (int j = 1; j <= i; j++) //пробек по горизонт  
+                {
+                    Console.Write("[*]"); // вывод 
+                }
                 Console.WriteLine();
             }
             Console.ReadKey();

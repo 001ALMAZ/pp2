@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PP2\\Week 1\\Task 2\\lab1z2\\lab1z2\\lab1z2.csproj",
+      "projectUniqueName": "C:\\PP2\\Week-1\\Task 2\\lab1z2\\lab1z2\\lab1z2.csproj",
       "projectName": "lab1z2",
-      "projectPath": "C:\\PP2\\Week 1\\Task 2\\lab1z2\\lab1z2\\lab1z2.csproj",
+      "projectPath": "C:\\PP2\\Week-1\\Task 2\\lab1z2\\lab1z2\\lab1z2.csproj",
       "packagesPath": "C:\\Users\\Алмаз\\.nuget\\packages\\",
-      "outputPath": "C:\\PP2\\Week 1\\Task 2\\lab1z2\\lab1z2\\obj\\",
+      "outputPath": "C:\\PP2\\Week-1\\Task 2\\lab1z2\\lab1z2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
