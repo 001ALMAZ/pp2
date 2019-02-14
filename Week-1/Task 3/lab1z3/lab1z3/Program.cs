@@ -10,7 +10,7 @@ namespace lab1z3
     {
         static void Main(string[] args)
         {
-            int N = int.Parse(Console.ReadLine()); // Создание и введение кол-ва чисел
+            int N = int.Parse(Console.ReadLine()); // Создание и введение количества чисел
             List<int> ans = new List<int>(); // Создание вектора для хранения ответа
             string[] arr = Console.ReadLine().Split(); // Создание и введение чисел через пробел
             for (int i = 0; i < N; i++) // Обход всех чисел
