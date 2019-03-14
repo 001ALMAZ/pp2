@@ -128,7 +128,7 @@ namespace task1
     {
         static void Main(string[] args)
         {
-            string path = "C:/Users/Алмаз";
+            string path = "C:/Users/Алмаз/Desktop";
             FarManager farManager = new FarManager(path);
             farManager.Start();
         }
